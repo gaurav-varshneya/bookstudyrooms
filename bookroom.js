@@ -44,7 +44,7 @@ const LOGIN = async (page) => {
 
     }
     catch(err){
-        console.log('lol whoops');
+        console.log('whoops');
     }
 };
 
