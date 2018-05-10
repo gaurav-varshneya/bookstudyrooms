@@ -126,8 +126,6 @@ const LOGIN = async (page) => {
         console.log('Room Booked!');
 
         process.exit();
-        
-
     }
     catch(err){
         console.log('error');
