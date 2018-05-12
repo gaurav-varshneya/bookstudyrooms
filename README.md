@@ -11,14 +11,14 @@ examples:
 
 node bookroom.js -t 8 -d 05/10/2018 
 
-[books the rooom at 8am on May 10th, 2018]
+		[books the rooom at 8am on May 10th, 2018]
 
 
 node bookroom.js -t 2030 -d 05/10/2018 
 
-[books the rooom at 8:30pm on May 10th, 2018]
+		[books the rooom at 8:30pm on May 10th, 2018]
 
 
 node bookroom.js -t 930 -d 05/10/2018 
 
-[books the rooom at 9:30am on May 10th, 2018]
+		[books the rooom at 9:30am on May 10th, 2018]
