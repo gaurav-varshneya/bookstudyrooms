@@ -3,7 +3,7 @@ A project using Node.js and Google Puppeteer / Headless Chrome that lets me auto
 
 FLAGS:
 
--t : for a specific time using a 24-hour clock
+-t : for a specific time using a 24-hour clock (only works in intervals of 30 minutes eg. 11, 1130, 12, 1230, 13, 1330, 14 etc)
 
 -d : for a certain date in mm/dd/yyyy format
 
